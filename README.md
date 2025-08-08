@@ -89,14 +89,8 @@ cd donkeykong-cli
 python donkeykong.py
 ```
 
-<br><br>
-
-```Best experienced in macOS/Linux terminal.
-```For emoji rendering, make sure your terminal is using UTF-8.
-
-## 📜 License
-
-MIT License — see LICENSE file for details.
+>Best experienced in macOS/Linux terminal.
+>For emoji rendering, make sure your terminal is using UTF-8.
 
 <br><br><br><br>
 
@@ -193,6 +187,4 @@ python donkeykong.py
 
 <br><br>
 
-## 📜 License
-
-MIT License — see LICENSE file for details.
+📜 MIT License
